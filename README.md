@@ -1,5 +1,5 @@
 # Databases_2021
-Database and UI for a hotel service
+Database and UI for a hotel service.
 
 Exercises for Databases course, 6th Semester 2021 of the Electrical and Computer Engineering School at the National Technical University of Athens.
 
