@@ -6,6 +6,7 @@ Exercises for Databases course, 6th Semester 2021 of the Electrical and Computer
 In this project my partner and I created a database for a hotel service, ran some queries on it, and developed a simple UI to interact with it. 
 
 **Relational diagram**
+
 ![Screenshot (1682)](https://user-images.githubusercontent.com/54019381/136377239-8ebb3d98-8397-4bb6-a914-db906d79a338.png)
 
 ### Project details
